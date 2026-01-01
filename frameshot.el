@@ -6,7 +6,7 @@
 ;; Homepage: https://github.com/tarsius/frameshot
 ;; Keywords: multimedia
 
-;; Package-Version: 1.2.0
+;; Package-Version: 1.2.1
 ;; Package-Requires: (
 ;;     (emacs "26.1")
 ;;     (compat "30.1"))
