@@ -257,5 +257,6 @@ loading the package that you want to demo."
 (provide 'frameshot)
 ;; Local Variables:
 ;; indent-tabs-mode: nil
+;; lisp-indent-local-overrides: ((cond . 0) (interactive . 0))
 ;; End:
 ;;; frameshot.el ends here
